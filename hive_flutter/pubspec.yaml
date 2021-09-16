@@ -14,7 +14,7 @@ dependencies:
 
   hive:
    git:
-     url: git://github.com/pangoo-reuse/hive.git
+     url: https://github.com/pangoo-reuse/hive.git
      path: packages/hive  
   path_provider: ^2.0.4 
   path: ^1.8.0
